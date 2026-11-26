@@ -11,7 +11,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@freeappstore/sdk": "^0.17.2",
+    "@freeappstore/sdk": "^0.20.0",
     "lucide-react": "^1.14.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
